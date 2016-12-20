@@ -144,9 +144,10 @@ body {
 .contacto h3 {
 	 position: absolute;
     top: 25px;
-    right: 138px;
+    right: 148px;
     color: white;
-    font-size: 40px;
+    font-size: 38px;
+    font-family: bold, helvetica;
     line-height: initial;
 
 }
