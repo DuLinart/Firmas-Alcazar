@@ -4,14 +4,16 @@ body {
 
 #imagen-fondo {
 	background-image: url(../assets/img/Fondo-tarjeta-iconos-01.png);
-	height: 300px;
+	height: 320px;
 	background-size: cover;
 	border-radius: 15px 15px 0 0;
+	
 }
 
 #seccion-aliados {
 	background-color: white;
 	height: 50px;
+
 
 }
 #seccion-avisos {
@@ -90,3 +92,72 @@ body {
 .imagen8 img {
 	margin: 5px 10px;
 }
+
+.medios .facebook  {
+	position: absolute;
+    top: 218px;
+    left: 229px;
+    color: white;
+    font-size: 20px;
+}
+
+.medios .twitter  {
+	position: absolute;
+    top: 260px;
+    left: 229px;
+    color: white;
+    font-size: 20px;
+}
+
+.contacto .mail {
+	position: absolute;
+    top: 117px;
+    right: 400px;
+    color: white;
+    font-size: 20px;
+}
+
+.contacto .telefono {
+	position: absolute;
+    top: 160px;
+    right: 508px;
+    color: white;
+    font-size: 20px;
+}
+
+.contacto .pagina {
+	position: absolute;
+    top: 203px;
+    right: 464px;
+    color: white;
+    font-size: 20px;
+}
+.contacto .direccion {
+	position: absolute;
+    top: 251px;
+    right: 302px;
+    color: white;
+    font-size: 20px;
+    line-height: initial;
+}
+
+.contacto h3 {
+	 position: absolute;
+    top: 25px;
+    right: 138px;
+    color: white;
+    font-size: 40px;
+    line-height: initial;
+
+}
+
+.contacto p {
+	position: absolute;
+    top: 70px;
+    right: 287px;
+    color: white;
+    font-size: 20px;
+    line-height: initial;
+
+}
+
